@@ -1,0 +1,360 @@
+[
+    {
+      "id": "1",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "2",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "3",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "4",
+      "name" 	: "Macbook",
+      "price" 	: "55000000",
+      "images" 	: "/images/products/p4.png",
+      "hot" 	: true
+    },
+    {
+      "id": "5",
+      "name" 	: "Laptop HP",
+      "price" 	: "96000000",
+      "images" 	: "/images/products/p4.png",
+      "hot" 	: false
+    },
+    {
+      "id": "6",
+      "name" 	: "Laptop Lenovo",
+      "price" 	: "26000000",
+      "images" 	: "/images/products/p3.png",
+      "hot" 	: true
+    },
+    {
+      "id": "7",
+      "name" 	: "Laptop HP",
+      "price" 	: "96000000",
+      "images" 	: "/images/products/p4.png",
+      "hot" 	: false
+    },
+    {
+      "id": "8",
+      "name" 	: "Laptop Lenovo",
+      "price" 	: "26000000",
+      "images" 	: "/images/products/p3.png",
+      "hot" 	: true
+    },
+    {
+      "id": "9",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "10",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "11",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "12",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "13",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    { 
+      "id": "14",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "15",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "16",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "17",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "18",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "19",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "20",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "21",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "22",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "23",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "24",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "25",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "26",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "27",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "28",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "29",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "30",
+      "name" 	: "Laptop HP",
+      "price" 	: "96000000",
+      "images" 	: "/images/products/p4.png",
+      "hot" 	: false
+    },
+    {
+      "id": "31",
+      "name" 	: "Laptop Lenovo",
+      "price" 	: "26000000",
+      "images" 	: "/images/products/p3.png",
+      "hot" 	: true
+    },
+    {
+      "id": "32",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "32",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "33",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "34",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "35",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "36",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "37",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "38",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "39",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "40",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "41",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "42",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "43",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "44",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "45",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "46",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "47",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "48",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "49",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    },
+    {
+      "id": "50",
+      "name" 	: "Laptop Asus",
+      "price" 	: "10000000",
+      "images" 	: "/images/products/p1.png",
+      "hot" 	: true
+    }
+
+  ]
